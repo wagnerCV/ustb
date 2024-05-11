@@ -20,11 +20,11 @@ const Hero = () => {
                   Atlantic Islands
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl text-justify">
-                  "Discover the magic of Cape Verde, an archipelago full of
+                  Discover the magic of Cape Verde, an archipelago full of
                   stunning beaches, lush landscapes and a vibrant culture.
                   Immerse yourself in the unique dance, flavors and history that
                   make this destination a true tropical paradise. Start your
-                  adventure now and discover what makes Cape Verde so special."
+                  adventure now and discover what makes Cape Verde so special.
                 </p>
               </div>
             </div>
